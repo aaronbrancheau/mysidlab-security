@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
+  - name: abrancheau-user66
     aws_groups: "sacramento, fresno, indio"
-  - name: user2
+  - name: abrancheau-user67
     aws_groups: "losangeles, sanfransisco, napa"
-  - name: user3
+  - name: abrancheau-user68
     aws_groups: "palmsprings, indio, sandiego"
